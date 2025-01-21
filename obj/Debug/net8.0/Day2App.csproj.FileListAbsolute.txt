@@ -12,3 +12,4 @@ D:\CICDTraining\Day2\Day2App\obj\Debug\net8.0\refint\Day2App.dll
 D:\CICDTraining\Day2\Day2App\obj\Debug\net8.0\Day2App.pdb
 D:\CICDTraining\Day2\Day2App\obj\Debug\net8.0\Day2App.genruntimeconfig.cache
 D:\CICDTraining\Day2\Day2App\obj\Debug\net8.0\ref\Day2App.dll
+D:\CICDTraining\Day2\Day2App\obj\Debug\net8.0\Day2App.sourcelink.json
