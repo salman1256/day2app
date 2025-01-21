@@ -1,0 +1,14 @@
+D:\CICDTraining\Day2\Day2App\bin\Debug\net8.0\Day2App.exe
+D:\CICDTraining\Day2\Day2App\bin\Debug\net8.0\Day2App.deps.json
+D:\CICDTraining\Day2\Day2App\bin\Debug\net8.0\Day2App.runtimeconfig.json
+D:\CICDTraining\Day2\Day2App\bin\Debug\net8.0\Day2App.dll
+D:\CICDTraining\Day2\Day2App\bin\Debug\net8.0\Day2App.pdb
+D:\CICDTraining\Day2\Day2App\obj\Debug\net8.0\Day2App.GeneratedMSBuildEditorConfig.editorconfig
+D:\CICDTraining\Day2\Day2App\obj\Debug\net8.0\Day2App.AssemblyInfoInputs.cache
+D:\CICDTraining\Day2\Day2App\obj\Debug\net8.0\Day2App.AssemblyInfo.cs
+D:\CICDTraining\Day2\Day2App\obj\Debug\net8.0\Day2App.csproj.CoreCompileInputs.cache
+D:\CICDTraining\Day2\Day2App\obj\Debug\net8.0\Day2App.dll
+D:\CICDTraining\Day2\Day2App\obj\Debug\net8.0\refint\Day2App.dll
+D:\CICDTraining\Day2\Day2App\obj\Debug\net8.0\Day2App.pdb
+D:\CICDTraining\Day2\Day2App\obj\Debug\net8.0\Day2App.genruntimeconfig.cache
+D:\CICDTraining\Day2\Day2App\obj\Debug\net8.0\ref\Day2App.dll
