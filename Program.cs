@@ -13,7 +13,9 @@ List<Employee> lstEmployees=new List<Employee>
     new Employee{Id=5,Name="Deep",Designation="Tester",Salary=7500.00,
     DoJ=new DateTime(day:09,month:09,year:2023)},
     new Employee{Id=09,Name="Rohit",Designation="Developerr",Salary=75000.00,
-    DoJ=new DateTime(day:09,month:09,year:2023)}
+    DoJ=new DateTime(day:09,month:09,year:2023)  },
+    new Employee{Id=10,Name="Nitin",Designation="Developer",Salary=75000.00,
+    DoJ=new DateTime(day:09,month:09,year:2023),   }
 
 };
 Console.WriteLine($"Number of Employees:{lstEmployees.Count}");
